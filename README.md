@@ -1,10 +1,17 @@
 # Circular-Linked-List
 
-Creation of circular linked list
+Insertion − Adds an element at the beginning of the list.
 
-Deletion and insertion of a node at any position.
+Deletion − Deletes an element at the beginning of the list.
 
-Deletion and insertion of a node at begining.
+Insertion − Adds an element at the end of the list.
 
-Deletion and insertion of a node at end.
+Deletion − Deletes an element at the end of the list.
+
+Insertion − Adds an element at any position of the list.
+
+Deletion − Deletes an element at any position of the list.
+
+Display − Displays the complete list.
+
 
